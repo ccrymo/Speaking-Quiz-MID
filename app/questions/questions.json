@@ -1,0 +1,42 @@
+{
+    "speaking_points": [
+      {
+        "instructions": "Describe how you manage your time and stay organized with your studies.",
+        "prompts": [
+          "Describe how you keep track of your assignments and deadlines. What tools or methods do you use to stay organized?",
+          "Talk about a time when you felt overwhelmed with your academic responsibilities. How did you manage your time to handle everything?"
+        ]
+      },
+      {
+  
+        "instructions": "Talk about your daily study habits and how they help you succeed in your academics.",
+        "prompts": [
+          "What are some of your daily study habits? How do they help you stay on top of your coursework?",
+          "Describe a study habit you developed recently. Why did you decide to start this habit, and how has it improved your learning?"
+        ]
+      },
+      {
+        "instructions": "Share your strategies for staying focused and avoiding distractions during studying.",
+        "prompts": [
+          "Explain some techniques you use to avoid distractions when you study. How effective are they?",
+          "Describe a challenging situation where it was difficult for you to stay focused. What strategies did you use to overcome it?"
+        ]
+      },
+      {
+        "instructions": "Talk about the ways you handle stress during exam periods.",
+        "prompts": [
+          "What do you do to relax and reduce stress before an exam? Describe your routine.",
+          "Can you share an experience where you felt very stressed during an exam period? What did you do to stay calm and perform well?"
+        ]
+      },
+      {
+        
+        "instructions": "Discuss the role of your classmates or friends in supporting your academic progress",
+        "prompts": [
+          "How do your classmates or friends support you in your studies? Share an example of how working with them helped you understand a difficult concept.",
+          "Describe a time when you helped a classmate or friend with their studies. How did it feel, and what did you learn from the experience?"
+        ]
+      }
+    ]
+  }
+  
