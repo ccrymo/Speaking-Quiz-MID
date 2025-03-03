@@ -16,7 +16,7 @@ import {
 export function ButtonWithIcon(props) {
   return (
     <Button onClick={props.onClick} variant="secondary" className="w-full h-16">
-      <p className="text-lg pt-6 pb-6">{props.text}</p>
+      <span className="text-lg pt-6 pb-6">{props.text}</span>
     </Button>
   );
 }
@@ -35,9 +35,9 @@ function SpeakingQuestions() {
   const { instructions, prompts } = questions.speaking_points[randomIndex];
 
   return (
-    <div className="mx-20 mt-16">
+    <div className="mx-20 mt-10">
       <Title title={instructions} />
-      <div className="mt-20 flex flex-row items-center justify-between">
+      <div className="mt-10 flex flex-row items-center justify-between">
         <ButtonWithIcon
           onClick={handleRandomIndex}
           text={
@@ -45,7 +45,7 @@ function SpeakingQuestions() {
           }
         />
       </div>
-      <Accordion type="single" collapsible className="w-full mt-6">
+      <Accordion type="single" collapsible className="w-full mt-3">
         <AccordionItem value="item-3">
           <AccordionTrigger>
             <h2 className=" ml-5 scroll-m-20 pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0 text-cyan-100">
@@ -61,7 +61,7 @@ function SpeakingQuestions() {
       <Accordion type="single" collapsible className="w-full">
         <AccordionItem value="item-1">
           <AccordionTrigger>
-            <h3 className="ml-5 mt-10 scroll-m-20 pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0 text-cyan-100">
+            <h3 className="ml-5 mt-5 scroll-m-20 pb-2 text-3xl font-semibold tracking-tight transition-colors first:mt-0 text-cyan-100">
               Prompt 2
             </h3>
           </AccordionTrigger>
