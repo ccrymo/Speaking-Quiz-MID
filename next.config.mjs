@@ -1,4 +1,13 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    
+};
+
+// next.config.js
+
+
+  
+
+
 
 export default nextConfig;

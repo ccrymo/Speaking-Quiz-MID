@@ -1,4 +1,4 @@
-// File: /home/kizarillo/Documents/Dev/SRU/Question Randomiser/Speaking-Quiz-MID/app/page.js
+// File: /home/kkrymov/Documents/Dev/Speaking-Random/speaking_exam_mid/app/page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -6,6 +6,7 @@ import Title from "./Title";
 import Promp from "./Promp";
 import { Button } from "@/components/ui/button";
 import Timer from "./Timer";
+
 import {
   Accordion,
   AccordionContent,
@@ -25,6 +26,8 @@ function SpeakingQuestions() {
   const [randomIndex, setRandomIndex] = useState(0);
   const [resetTimer, setResetTimer] = useState(false);
 
+ 
+
   const handleRandomIndex = () => {
     setResetTimer(true); // Set resetTimer to true to indicate reset is needed
     setRandomIndex(
@@ -33,9 +36,12 @@ function SpeakingQuestions() {
   };
 
   const { instructions, prompts } = questions.speaking_points[randomIndex];
+  
+
 
   return (
     <div className="mx-20 mt-10">
+   
       <Title title={instructions} />
       <div className="mt-10 flex flex-row items-center justify-between">
         <ButtonWithIcon
