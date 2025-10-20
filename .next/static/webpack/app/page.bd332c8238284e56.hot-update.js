@@ -1,0 +1,22 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/page",{
+
+/***/ "(app-pages-browser)/./app/questions/questions.json":
+/*!**************************************!*\
+  !*** ./app/questions/questions.json ***!
+  \**************************************/
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+module.exports = /*#__PURE__*/JSON.parse('{"speaking_points":[{"instructions":"What helps you manage your schedule? Do you use a calendar, to-do list, or something else?","prompts":["How do you keep track of your schedule?","What tools or methods do you use to stay organized?"]},{"instructions":"How do you balance your academic responsibilities with your personal life?","prompts":["How do you manage schoolwork and personal time?","What strategies help you find a balance?"]},{"instructions":"Do you prefer studying in the library or at home? Why?","prompts":["Where do you like to study more, the library or home?","Why is that place better for you?"]},{"instructions":"How do you stay focused during long study sessions or lectures?","prompts":["What helps you stay focused when studying for a long time?","How do you avoid losing concentration in class?"]},{"instructions":"How important do you think time management is for university students, and how do you improve your own?","prompts":["Why is time management important for students?","What do you do to manage your time better?"]},{"instructions":"What role do classmates or friends play in your academic success? Do you often seek help or advice from them?","prompts":["How do your friends or classmates help you succeed in school?","Do you ask them for help or advice often?"]},{"instructions":"How do you manage distractions, like social media or friends, while trying to study or complete assignments?","prompts":["How do you deal with distractions like social media?","What do you do to stay focused on your work?"]},{"instructions":"Which season do you prefer and why? What activities are popular in this season?","prompts":["What is your favorite season and why?","What activities do people enjoy during that season?"]},{"instructions":"Which season is good for taking a vacation? Why?","prompts":["Which season is best for a vacation?","Why is that season a good time to travel?"]},{"instructions":"What are some safety measures one should take for outdoor camping? What can go wrong?","prompts":["What safety steps should you take when camping?","What problems might happen while camping?"]},{"instructions":"Which season is good for hiking? Why?","prompts":["Which season is best for hiking?","Why is that season good for hiking?"]},{"instructions":"What activities do you enjoy when it is winter in your country? What do you do often?","prompts":["What do you like to do in winter?","What winter activities do you do most often?"]},{"instructions":"What is the weather like in spring? What activities can you do in spring?","prompts":["How is the weather in spring?","What activities are good to do in spring?"]},{"instructions":"Which season do you like the least? Why?","prompts":["Which season do you like the least?","Why don\'t you like that season?"]},{"instructions":"What do people do in summer in your country?","prompts":["What do people do during summer in your country?","What are popular summer activities?"]}]}');
+
+/***/ })
+
+});

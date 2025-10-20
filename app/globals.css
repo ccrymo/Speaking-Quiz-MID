@@ -12,6 +12,10 @@ body {
   }
 }
 
+.no-underline-on-hover:hover {
+  text-decoration: none;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;

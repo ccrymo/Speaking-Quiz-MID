@@ -1,73 +1,108 @@
 {
   "speaking_points": [
     {
-      "instructions": "What does the term 'academic honesty' mean to you? What do you think should be the consequences for someone who fails to follow it during their studies?",
+      "instructions": "What helps you manage your schedule? Do you use a calendar, to-do list, or something else?",
       "prompts": [
-        "What is academic honesty in your opinion?",
-        "What should happen if someone cheats in school?"
+        "How do you keep track of your schedule?",
+        "What tools or methods do you use to stay organized?"
       ]
     },
     {
-      "instructions": "Apart from employment opportunities, what other benefits come with attending a university?",
+      "instructions": "How do you balance your academic responsibilities with your personal life?",
       "prompts": [
-        "Why is going to university good for your personal growth?",
-        "What can you learn at university besides job skills?"
+        "How do you manage schoolwork and personal time?",
+        "What strategies help you find a balance?"
       ]
     },
     {
-      "instructions": "Describe a time when you had to rush and explain the experience.",
+      "instructions": "Do you prefer studying in the library or at home? Why?",
       "prompts": [
-        "Can you tell me about a time when you were in a hurry?",
-        "How did you feel and what did you do?"
+        "Where do you like to study more, the library or home?",
+        "Why is that place better for you?"
       ]
     },
     {
-      "instructions": "Have you ever witnessed someone cheating? If so, can you describe the situation?",
+      "instructions": "How do you stay focused during long study sessions or lectures?",
       "prompts": [
-        "Have you seen someone cheat before?",
-        "What happened and how did you feel about it?"
+        "What helps you stay focused when studying for a long time?",
+        "How do you avoid losing concentration in class?"
       ]
     },
     {
-      "instructions": "If someone cheats in school, do you believe they are likely to engage in dishonest behavior in other aspects of their life? How?",
+      "instructions": "How important do you think time management is for university students, and how do you improve your own?",
       "prompts": [
-        "Do people who cheat in school behave dishonestly in life too?",
-        "Why do you think this might happen?"
+        "Why is time management important for students?",
+        "What do you do to manage your time better?"
       ]
     },
     {
-      "instructions": "Would you allow a friend to use a term paper you had previously submitted for a course? Why or why not?",
+      "instructions": "What role do classmates or friends play in your academic success? Do you often seek help or advice from them?",
       "prompts": [
-        "Would you share your old term paper with a friend?",
-        "Why would you say yes or no?"
+        "How do your friends or classmates help you succeed in school?",
+        "Do you ask them for help or advice often?"
       ]
     },
     {
-      "instructions": "In your opinion, what should the penalty be for individuals who cheat on exams or term papers?",
+      "instructions": "How do you manage distractions, like social media or friends, while trying to study or complete assignments?",
       "prompts": [
-        "What punishment is fair for cheating on exams?",
-        "Why do you think this penalty is appropriate?"
+        "How do you deal with distractions like social media?",
+        "What do you do to stay focused on your work?"
       ]
     },
     {
-      "instructions": "Do you believe that people have the right to own guns, or should guns be illegal?",
+      "instructions": "Which season do you prefer and why? What activities are popular in this season?",
       "prompts": [
-        "Should people be allowed to own guns?",
-        "Why or why not?"
+        "What is your favorite season and why?",
+        "What activities do people enjoy during that season?"
       ]
     },
     {
-      "instructions": "If a person illegally owns a gun, what should the punishment be?",
+      "instructions": "Which season is good for taking a vacation? Why?",
       "prompts": [
-        "What should happen if someone has an illegal gun?",
-        "How serious should the punishment be?"
+        "Which season is best for a vacation?",
+        "Why is that season a good time to travel?"
       ]
     },
     {
-      "instructions": "Imagine that the family with a gun lives next door to you. You have a young child, and this family also has a young child. The two children want to play together. Would you allow your child to play at this house?",
+      "instructions": "What are some safety measures one should take for outdoor camping? What can go wrong?",
       "prompts": [
-        "Would you let your child play at a house where there is a gun?",
-        "Why or why not?"
+        "What safety steps should you take when camping?",
+        "What problems might happen while camping?"
+      ]
+    },
+    {
+      "instructions": "Which season is good for hiking? Why?",
+      "prompts": [
+        "Which season is best for hiking?",
+        "Why is that season good for hiking?"
+      ]
+    },
+    {
+      "instructions": "What activities do you enjoy when it is winter in your country? What do you do often?",
+      "prompts": [
+        "What do you like to do in winter?",
+        "What winter activities do you do most often?"
+      ]
+    },
+    {
+      "instructions": "What is the weather like in spring? What activities can you do in spring?",
+      "prompts": [
+        "How is the weather in spring?",
+        "What activities are good to do in spring?"
+      ]
+    },
+    {
+      "instructions": "Which season do you like the least? Why?",
+      "prompts": [
+        "Which season do you like the least?",
+        "Why don't you like that season?"
+      ]
+    },
+    {
+      "instructions": "What do people do in summer in your country?",
+      "prompts": [
+        "What do people do during summer in your country?",
+        "What are popular summer activities?"
       ]
     }
   ]
