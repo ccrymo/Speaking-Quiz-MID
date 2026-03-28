@@ -1,108 +1,108 @@
 {
   "speaking_points": [
     {
-      "instructions": "What helps you manage your schedule? Do you use a calendar, to-do list, or something else?",
+      "instructions": "What qualities make someone a successful university student?",
       "prompts": [
-        "How do you keep track of your schedule?",
-        "What tools or methods do you use to stay organized?"
+        "Think about a student you admire – what habits or skills make them stand out?",
+        "What personal traits help a student finish assignments on time and do well in exams?"
       ]
     },
     {
-      "instructions": "How do you balance your academic responsibilities with your personal life?",
+      "instructions": "How can students manage their time effectively during the semester?",
       "prompts": [
-        "How do you manage schoolwork and personal time?",
-        "What strategies help you find a balance?"
+        "What tools like a planner or to-do list can help a student organize their week?",
+        "What do students often waste time on, and how can they avoid it?"
       ]
     },
     {
-      "instructions": "Do you prefer studying in the library or at home? Why?",
+      "instructions": "Do you think group projects are better than individual assignments? Why or why not?",
       "prompts": [
-        "Where do you like to study more, the library or home?",
-        "Why is that place better for you?"
+        "What are some benefits of working in a group compared to working alone?",
+        "Can you think of a situation where working alone might be a better choice?"
       ]
     },
     {
-      "instructions": "How do you stay focused during long study sessions or lectures?",
+      "instructions": "What are some common challenges first-year university students face when living in a dormitory or navigating a new campus?",
       "prompts": [
-        "What helps you stay focused when studying for a long time?",
-        "How do you avoid losing concentration in class?"
+        "What might feel confusing or difficult about being in a completely new place?",
+        "What problems might come from sharing a room or living away from family for the first time?"
       ]
     },
     {
-      "instructions": "How important do you think time management is for university students, and how do you improve your own?",
+      "instructions": "How can students successfully balance studying with their social life?",
       "prompts": [
-        "Why is time management important for students?",
-        "What do you do to manage your time better?"
+        "What happens when a student spends too much time socializing and not enough time studying?",
+        "Can you suggest a simple weekly plan that includes both study time and free time?"
       ]
     },
     {
-      "instructions": "What role do classmates or friends play in your academic success? Do you often seek help or advice from them?",
+      "instructions": "Imagine a new student asks you for help. How would you give them directions to important buildings on your campus?",
       "prompts": [
-        "How do your friends or classmates help you succeed in school?",
-        "Do you ask them for help or advice often?"
+        "What are the most important buildings to show a new student first, and why?",
+        "What direction words would you use, like 'turn left,' 'go straight,' or 'it is next to'?"
       ]
     },
     {
-      "instructions": "How do you manage distractions, like social media or friends, while trying to study or complete assignments?",
+      "instructions": "What advice would you give to a new student who feels overwhelmed by their classes?",
       "prompts": [
-        "How do you deal with distractions like social media?",
-        "What do you do to stay focused on your work?"
+        "Who can a student go to for help – a teacher, a classmate, or a counselor?",
+        "What small steps can a student take to feel more organized and less stressed?"
       ]
     },
     {
-      "instructions": "Which season do you prefer and why? What activities are popular in this season?",
+      "instructions": "How can students avoid plagiarism when writing a term paper, and what should the penalty be if they get caught?",
       "prompts": [
-        "What is your favorite season and why?",
-        "What activities do people enjoy during that season?"
+        "What does it mean to use someone's words or ideas without giving them credit, and why is it wrong?",
+        "Do you think the punishment for copying should be strict or lenient? Why?"
       ]
     },
     {
-      "instructions": "Which season is good for taking a vacation? Why?",
+      "instructions": "Do you think online learning is as effective as face-to-face learning? Explain your opinion.",
       "prompts": [
-        "Which season is best for a vacation?",
-        "Why is that season a good time to travel?"
+        "What things are easier or harder to do when learning online compared to being in a classroom?",
+        "Have you or someone you know studied online before? What was good or bad about it?"
       ]
     },
     {
-      "instructions": "What are some safety measures one should take for outdoor camping? What can go wrong?",
+      "instructions": "What are the advantages and disadvantages of living in a large, busy city?",
       "prompts": [
-        "What safety steps should you take when camping?",
-        "What problems might happen while camping?"
+        "Think about jobs, transport, and entertainment – which of these are better in a big city?",
+        "What problems do people often deal with in large cities, such as traffic, noise, or pollution?"
       ]
     },
     {
-      "instructions": "Which season is good for hiking? Why?",
+      "instructions": "How does living in a city affect people's lifestyle and stress levels?",
       "prompts": [
-        "Which season is best for hiking?",
-        "Why is that season good for hiking?"
+        "How is a typical day for someone in a big city different from someone in a small town?",
+        "What parts of city life can cause stress, and what do people usually do to relax?"
       ]
     },
     {
-      "instructions": "What activities do you enjoy when it is winter in your country? What do you do often?",
+      "instructions": "What are the pros and cons of sharing an apartment? What would you do if your roommate was messy and never helped clean?",
       "prompts": [
-        "What do you like to do in winter?",
-        "What winter activities do you do most often?"
+        "What are some benefits of sharing a home, like saving money or having company?",
+        "How would you talk to your roommate about the problem without starting an argument?"
       ]
     },
     {
-      "instructions": "What is the weather like in spring? What activities can you do in spring?",
+      "instructions": "Do you think neighborhoods are becoming more or less safe? What steps can people take to prevent break-ins?",
       "prompts": [
-        "How is the weather in spring?",
-        "What activities are good to do in spring?"
+        "What do you think causes crime in a neighborhood to go up or down?",
+        "What simple things can people do at home to make it harder for someone to break in?"
       ]
     },
     {
-      "instructions": "Which season do you like the least? Why?",
+      "instructions": "How does city life influence relationships between neighbors? Do you think a Neighborhood Watch program is a good idea?",
       "prompts": [
-        "Which season do you like the least?",
-        "Why don't you like that season?"
+        "In a busy city, do people usually know their neighbors well? Why or why not?",
+        "How could neighbors working together help make an area safer and more friendly?"
       ]
     },
     {
-      "instructions": "What do people do in summer in your country?",
+      "instructions": "If you could change one thing about your city or neighborhood, what would it be and why?",
       "prompts": [
-        "What do people do during summer in your country?",
-        "What are popular summer activities?"
+        "Think about everyday problems in your area – could it be traffic, cleanliness, or public transport?",
+        "How would your change make daily life better for the people who live there?"
       ]
     }
   ]
