@@ -1,5 +1,6 @@
 import localFont from "next/font/local";
 import "./globals.css";
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata = {
   title: "Speaking Midterm Exam",
@@ -12,6 +13,7 @@ export default function RootLayout({ children }) {
       <body
       >
         {children}
+        <Analytics />
       </body>
     </html>
   );
