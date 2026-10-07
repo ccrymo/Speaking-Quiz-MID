@@ -1,108 +1,124 @@
 {
-  "speaking_points": [
+  "course": "Listening & Speaking 1",
+  "exam": "Midterm Speaking Exam",
+  "timeLimitSeconds": 180,
+  "cards": [
     {
-      "instructions": "What qualities make someone a successful university student?",
-      "prompts": [
-        "Think about a student you admire – what habits or skills make them stand out?",
-        "What personal traits help a student finish assignments on time and do well in exams?"
+      "id": "A",
+      "topic": "Meeting someone new",
+      "task": "Describe the first time you met a person who is now a good friend.",
+      "youShouldSay": [
+        "where and when you met, and how you were introduced",
+        "what your first impression of this person was",
+        "what you did together after that first meeting",
+        "and explain why you became good friends"
+      ],
+      "usefulWords": [
+        "in person",
+        "introduce",
+        "hang out",
+        "stop by",
+        "get to know",
+        "first impression"
       ]
     },
     {
-      "instructions": "How can students manage their time effectively during the semester?",
-      "prompts": [
-        "What tools like a planner or to-do list can help a student organize their week?",
-        "What do students often waste time on, and how can they avoid it?"
+      "id": "B",
+      "topic": "Advice for a new student",
+      "task": "Imagine you are speaking to a group of new freshmen. Give them advice about managing their time at university.",
+      "youShouldSay": [
+        "the biggest time-management problem that new students have",
+        "two or three practical tips that work for you",
+        "what students should do when they have several deadlines at the same time",
+        "and explain why time management is so important at university"
+      ],
+      "usefulWords": [
+        "manage",
+        "schedule",
+        "deadline",
+        "to-do list",
+        "cross it off",
+        "tips",
+        "on your own",
+        "counselor"
       ]
     },
     {
-      "instructions": "Do you think group projects are better than individual assignments? Why or why not?",
-      "prompts": [
-        "What are some benefits of working in a group compared to working alone?",
-        "Can you think of a situation where working alone might be a better choice?"
+      "id": "C",
+      "topic": "Pressure on university students",
+      "task": "Talk about the pressures that university students face today.",
+      "youShouldSay": [
+        "what kinds of pressure students face (for example, grades, family, money, social media)",
+        "which pressure you think is the most serious, and why",
+        "how this pressure affects students' health or studies",
+        "and explain what students and universities can do to reduce it"
+      ],
+      "usefulWords": [
+        "stress",
+        "pressure",
+        "deadline",
+        "manage",
+        "counselor",
+        "advice",
+        "on your own"
       ]
     },
     {
-      "instructions": "What are some common challenges first-year university students face when living in a dormitory or navigating a new campus?",
-      "prompts": [
-        "What might feel confusing or difficult about being in a completely new place?",
-        "What problems might come from sharing a room or living away from family for the first time?"
+      "id": "D",
+      "topic": "A perfect outdoor vacation",
+      "task": "Describe your idea of a perfect outdoor vacation.",
+      "youShouldSay": [
+        "where you would go and in which season",
+        "who you would go with",
+        "what activities you would do there",
+        "and explain why this would be a perfect vacation for you"
+      ],
+      "usefulWords": [
+        "get a tan",
+        "hiking",
+        "incredible",
+        "fair skies",
+        "I can't wait to…",
+        "I'm crazy about…"
       ]
     },
     {
-      "instructions": "How can students successfully balance studying with their social life?",
-      "prompts": [
-        "What happens when a student spends too much time socializing and not enough time studying?",
-        "Can you suggest a simple weekly plan that includes both study time and free time?"
+      "id": "E",
+      "topic": "Weather and seasons in your city",
+      "task": "Describe the weather and seasons in your city or hometown.",
+      "youShouldSay": [
+        "what the weather is like in each season (use temperatures in degrees)",
+        "which season you like most and which you like least",
+        "what activities you enjoy or dislike in different seasons",
+        "and explain how the weather affects people's daily lives in your city"
+      ],
+      "usefulWords": [
+        "degrees",
+        "chilly",
+        "freezing",
+        "showers",
+        "partly cloudy",
+        "chance of rain",
+        "I can't stand…",
+        "I'm not crazy about…"
       ]
     },
     {
-      "instructions": "Imagine a new student asks you for help. How would you give them directions to important buildings on your campus?",
-      "prompts": [
-        "What are the most important buildings to show a new student first, and why?",
-        "What direction words would you use, like 'turn left,' 'go straight,' or 'it is next to'?"
-      ]
-    },
-    {
-      "instructions": "What advice would you give to a new student who feels overwhelmed by their classes?",
-      "prompts": [
-        "Who can a student go to for help – a teacher, a classmate, or a counselor?",
-        "What small steps can a student take to feel more organized and less stressed?"
-      ]
-    },
-    {
-      "instructions": "How can students avoid plagiarism when writing a term paper, and what should the penalty be if they get caught?",
-      "prompts": [
-        "What does it mean to use someone's words or ideas without giving them credit, and why is it wrong?",
-        "Do you think the punishment for copying should be strict or lenient? Why?"
-      ]
-    },
-    {
-      "instructions": "Do you think online learning is as effective as face-to-face learning? Explain your opinion.",
-      "prompts": [
-        "What things are easier or harder to do when learning online compared to being in a classroom?",
-        "Have you or someone you know studied online before? What was good or bad about it?"
-      ]
-    },
-    {
-      "instructions": "What are the advantages and disadvantages of living in a large, busy city?",
-      "prompts": [
-        "Think about jobs, transport, and entertainment – which of these are better in a big city?",
-        "What problems do people often deal with in large cities, such as traffic, noise, or pollution?"
-      ]
-    },
-    {
-      "instructions": "How does living in a city affect people's lifestyle and stress levels?",
-      "prompts": [
-        "How is a typical day for someone in a big city different from someone in a small town?",
-        "What parts of city life can cause stress, and what do people usually do to relax?"
-      ]
-    },
-    {
-      "instructions": "What are the pros and cons of sharing an apartment? What would you do if your roommate was messy and never helped clean?",
-      "prompts": [
-        "What are some benefits of sharing a home, like saving money or having company?",
-        "How would you talk to your roommate about the problem without starting an argument?"
-      ]
-    },
-    {
-      "instructions": "Do you think neighborhoods are becoming more or less safe? What steps can people take to prevent break-ins?",
-      "prompts": [
-        "What do you think causes crime in a neighborhood to go up or down?",
-        "What simple things can people do at home to make it harder for someone to break in?"
-      ]
-    },
-    {
-      "instructions": "How does city life influence relationships between neighbors? Do you think a Neighborhood Watch program is a good idea?",
-      "prompts": [
-        "In a busy city, do people usually know their neighbors well? Why or why not?",
-        "How could neighbors working together help make an area safer and more friendly?"
-      ]
-    },
-    {
-      "instructions": "If you could change one thing about your city or neighborhood, what would it be and why?",
-      "prompts": [
-        "Think about everyday problems in your area – could it be traffic, cleanliness, or public transport?",
-        "How would your change make daily life better for the people who live there?"
+      "id": "F",
+      "topic": "Abilities and outdoor skills",
+      "task": "Talk about your abilities in outdoor activities and sports.",
+      "youShouldSay": [
+        "one outdoor activity or sport you can do well, and how you learned it",
+        "one activity you can't do, but wish you could",
+        "how you would learn this new skill",
+        "and explain why learning new outdoor skills is (or is not) important to you"
+      ],
+      "usefulWords": [
+        "can / can't",
+        "I'm (not) good at…",
+        "I know how to…",
+        "I wish I could…",
+        "I'm able to…"
       ]
     }
   ]

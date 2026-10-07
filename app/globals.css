@@ -2,41 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
-}
-
-.no-underline-on-hover:hover {
-  text-decoration: none;
-}
-
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 0 0% 3.9%;
+    --background: 220 38% 96%;
+    --foreground: 220 54% 13%;
     --card: 0 0% 100%;
-    --card-foreground: 0 0% 3.9%;
+    --card-foreground: 220 54% 13%;
     --popover: 0 0% 100%;
-    --popover-foreground: 0 0% 3.9%;
-    --primary: 0 0% 9%;
-    --primary-foreground: 0 0% 98%;
-    --secondary: 0 0% 96.1%;
-    --secondary-foreground: 0 0% 9%;
-    --muted: 0 0% 96.1%;
-    --muted-foreground: 0 0% 45.1%;
-    --accent: 0 0% 96.1%;
-    --accent-foreground: 0 0% 9%;
+    --popover-foreground: 220 54% 13%;
+    --primary: 218 53% 26%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 220 45% 95%;
+    --secondary-foreground: 218 53% 26%;
+    --muted: 220 45% 95%;
+    --muted-foreground: 220 18% 40%;
+    --accent: 220 45% 95%;
+    --accent-foreground: 218 53% 26%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
-    --border: 0 0% 89.8%;
-    --input: 0 0% 89.8%;
-    --ring: 0 0% 3.9%;
+    --border: 220 30% 88%;
+    --input: 220 30% 88%;
+    --ring: 193 100% 35%;
     --chart-1: 12 76% 61%;
     --chart-2: 173 58% 39%;
     --chart-3: 197 37% 24%;
@@ -78,5 +64,51 @@ body {
   }
   body {
     @apply bg-background text-foreground;
+  }
+}
+
+@layer components {
+  /* Soft brand-coloured glow behind the exam display */
+  .exam-backdrop {
+    background-color: hsl(var(--background));
+    background-image:
+      radial-gradient(55rem 38rem at -10% -10%, rgba(0, 173, 217, 0.14), transparent 60%),
+      radial-gradient(50rem 36rem at 110% 110%, rgba(79, 35, 133, 0.12), transparent 60%);
+  }
+
+  /* Fluid type: grows with the screen width and height. On laptop and
+     projector screens, useFitToHeight also sets --fit (0.6 to 1) to shrink a
+     long card just enough to fit the screen without scrolling. */
+  .cue-topic {
+    font-size: clamp(1.25rem, min(0.85rem + 1.25vw, 0.4rem + 3.3vh), 2.6rem);
+    line-height: 1.2;
+  }
+  .cue-body {
+    padding-block: clamp(1.5rem, 4vh, 2.75rem);
+  }
+  .cue-stack {
+    gap: calc(var(--fit, 1) * clamp(1.25rem, 3.2vh, 2.5rem));
+  }
+  .cue-task {
+    font-size: calc(var(--fit, 1) * clamp(1.4rem, min(0.8rem + 2vw, 0.4rem + 4.6vh), 3.4rem));
+    line-height: 1.25;
+    letter-spacing: -0.015em;
+  }
+  .cue-point {
+    font-size: calc(var(--fit, 1) * clamp(1.05rem, min(0.6rem + 1.3vw, 0.25rem + 3vh), 2.3rem));
+    line-height: 1.4;
+  }
+  .cue-chip {
+    font-size: calc(var(--fit, 1) * clamp(0.95rem, min(0.6rem + 0.7vw, 0.4rem + 1.9vh), 1.6rem));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
   }
 }
